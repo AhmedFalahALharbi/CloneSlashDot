@@ -288,6 +288,18 @@ button {
     margin: 10px;
     color: white;
 }
+.newer {
+    color: #a8a8a8;
+    background-color: white;
+    padding: 10px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.older {
+    background-color: var(--second-color);
+    padding: 10px;
+    
+}
 b {
     color: rgb(48, 48, 48);
 }
